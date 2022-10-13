@@ -4,7 +4,7 @@
 #pragma once
 #include <Windows.h>
 
-#define OFFSET_UWORLD 0xDF0FE00//
+#define OFFSET_UWORLD 0xDF10DC0//
 
 namespace OFFSETS
 {
